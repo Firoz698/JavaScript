@@ -1,0 +1,24 @@
+.para_style{
+    color: green;
+    font-size: 3rem;
+    background-color: lime;
+    padding: 10px;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+.inputBoxStyle{
+    padding: 10px;
+}
+.lebelStyle{
+    font-size: 30px;
+    margin-right: 30px;
+}
+
+.Addbutonn{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+}

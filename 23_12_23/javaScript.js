@@ -1,0 +1,8 @@
+
+
+
+console.log(window.location)
+
+
+
+
